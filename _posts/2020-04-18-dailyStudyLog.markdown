@@ -13,4 +13,5 @@ title: 学习日报
 
 ### 遇到的问题 & 如何解决
 - 如何将在Jekyll建立的静态页面关联到GitHub pages
-> 解决方案：
+> Gemfile
+> p.s. 如果没有打开vpn，将source改成 https://gems.ruby-china.com
