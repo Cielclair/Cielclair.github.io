@@ -4,17 +4,13 @@ title: Git Flow学习笔记
 ---
 
 
-
 ##### Git Flow学习笔记
-
-
 
 [GitFlow+Gitlab工作流及Git规范](https://www.jianshu.com/p/d46da933c180)
 
 [另一个参考](https://zhuanlan.zhihu.com/p/66048537)
 
 [yet another](https://www.cnblogs.com/cnblogsfans/p/5075073.html)
-
 
 
 ## GitFlow
@@ -109,7 +105,7 @@ Revert
 >
 > 1. 加快 Reviewing Code 的过程
 > 2. 帮助我们写好 release note
-> 3. 5年后帮你快速想起来某个分支，tag 或者 commit 增加了什么功能，改变了哪些代码 
+> 3. 5年后帮你快速想起来某个分支，tag 或者 commit 增加了什么功能，改变了哪些代码
 > 4. 让其他的开发者在运行 git blame 的时候想跪谢
 > 5. 一个好的提交信息，会帮助你提高项目的整体质量
 
@@ -228,7 +224,3 @@ release分支是为发布新的产品版本而设计的。在这个分支上的�
 
 
 ![流程图](https://img-blog.csdn.net/20180803135443287?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpbmdiYW96aGVuMTIxMA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-
-------
-
-### 
