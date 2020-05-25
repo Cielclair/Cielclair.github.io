@@ -9,11 +9,12 @@ title: Git Flow学习笔记
 
 [yet another](https://www.cnblogs.com/cnblogsfans/p/5075073.html)
 
+[图解Git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+
 
 ## GitFlow
 
 ![GitFlow模型图](https://upload-images.jianshu.io/upload_images/4822184-1b70ca8c0a9069d2.png)
-<!-- ![GitFlow模型图](/Users/apple/Documents/study/Coding/KKB/03 操作系统与常用工具/04 思维导图与流程图/Git Flow.png) -->
 
 
 
