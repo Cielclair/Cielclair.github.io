@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript高级程序设计（第3版）学习笔记（持续更新ing）
+title: JavaScript高级程序设计（第3版）学习笔记「持续更新ing」
 ---
 
 
